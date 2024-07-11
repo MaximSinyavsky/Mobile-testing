@@ -1,0 +1,4 @@
+ADB home work № 1.
+
+1. Запустить приложение Android Studio;
+2. 
